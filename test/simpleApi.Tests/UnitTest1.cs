@@ -8,7 +8,7 @@ namespace simpleApi.Tests
         [Fact]
         public void Test1()
         {
-Assert.Equal(67, 8*6);
+Assert.Equal(35, 7*5);
         }
     }
 }
