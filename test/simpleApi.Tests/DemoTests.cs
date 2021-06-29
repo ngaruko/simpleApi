@@ -21,13 +21,13 @@ namespace simpleApi.Tests
          [Fact]
         public void FailingTest3()
         {
-            Assert.Equal(35, 7*6);
+            Assert.Equal(36, 6*6);
         }
         
         [Fact]
         public void FailingTest4()
         {
-            Assert.Equal(2*5, 12);
+            Assert.Equal(2*11, 22);
         }
     }
 }
